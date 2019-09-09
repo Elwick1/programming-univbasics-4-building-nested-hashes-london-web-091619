@@ -2,10 +2,6 @@ def base_hash
   {}
 end
 
-def magic
-  magic = {name: "Wizard"}
-end
-
 def monopoly = {railroads: {}}
 end
 
