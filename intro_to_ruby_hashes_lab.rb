@@ -1,5 +1,5 @@
 def base_hash
-  = { 
+  = { magic: {wizard}
 
 end
 def monopoly = {
