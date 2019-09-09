@@ -3,6 +3,7 @@ def base_hash
 end
 
 def magic
+  magic = 
 
 #def monopoly = {
 #    railroads: {}
