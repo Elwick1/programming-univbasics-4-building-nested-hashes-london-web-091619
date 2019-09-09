@@ -22,7 +22,10 @@ def monopoly_with_third_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
   monopoly = {railroads: {pieces: 4,
-      names: {},
+      names: {:reading_railroad => {},
+        :pennsylvania_railroad => {},
+        :b_and_o_railroad => {},
+        :shortline => {}},
       rent_in_dollars: {}}}
 end
 
