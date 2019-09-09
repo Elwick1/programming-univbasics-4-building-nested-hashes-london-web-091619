@@ -4,6 +4,7 @@ end
 
 def magic
   magic = {name: "Wizard"}
+end
 
 #def monopoly = {
 #    railroads: {}
